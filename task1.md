@@ -7,3 +7,4 @@ schematic
 Testbench code 
 ![image alt](https://github.com/user-attachments/assets/cd3f8702-27c0-4bb4-a20a-23c9423e70e4)
 Final synthesis with power analysis
+![image alt](https://github.com/user-attachments/assets/59b74ae1-ec21-473f-80b2-4a1432f899f8)
